@@ -2,7 +2,7 @@
 This project is done in c language. This is a simple spell checker which will take a string as input from the user and shows the spelling mistakes in his string. This will also suggest the correct spellings of those words which are misspelled.For this project I have used files concept in c language.
 let me explain my code, I have divided my project into three  functions main(), strcompare() and suggestions().
 
-main(): here we are scanning the input string and we are splitting that string into words. We are calling other two functions when ever nccessary.
+main(): here we are scanning the input string and we are splitting that string into words. We are calling other two functions when ever neccessary.
 
 strcompare() : this function compares both strings given to it and returns 1 if both of them are equal else it will return 0.
 
