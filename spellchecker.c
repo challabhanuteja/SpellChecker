@@ -48,7 +48,7 @@ printf("Suggestion:\n");
 while(i<n)
 	{
 		char t[10];int j=0;
-		for(;sentence[i]!=' ';i++,j++)
+		for(;sentence[i]!=' ';i++,j++)//breaking the string into words. word is being stored in t.
 		{
 			temp++;
 			if(sentence[i]==' ')
